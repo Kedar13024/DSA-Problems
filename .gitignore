@@ -68,4 +68,7 @@ vcpkg_installed/
 Testing/
 .cache/
 .vscode/
+
+#temp
+Test/
 .agents/
